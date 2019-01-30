@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: garrypas.github.io
+Token: 799174a5f055a43062c96677fba5d6de90194f13460a592cb6699a5223060968
